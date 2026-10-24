@@ -1,6 +1,6 @@
 {
 "spider":"./jar/pg_upgraded.jar;md5;e58c3a2975d24db4978065ab895cf297",
-"lives":[{"name":"初秋语•综合","type":0,"url":"./list.txt","playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}","logo":"https://logo.wyfc.qzz.io/{name}.png"},
+"lives":[{"name":"联通可用","type":0,"url":"./live/unicom.m3u","playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}","logo":"https://logo.wyfc.qzz.io/{name}.png"},{"name":"初秋语•综合","type":0,"url":"./list.txt","playerType":2,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}","logo":"https://logo.wyfc.qzz.io/{name}.png"},
 {"name":"Ray•综合","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType":1,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}","logo":"https://logo.wyfc.qzz.io/{name}.png"},
 {"name":"俊于•综合","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
 {"name":"PG•油管","type":0,"url":"./yo21.txt","epg":"http://epg.cdn.loc.cc/?ch={name}&date={date}","logo": "https://logo.wyfc.qzz.io/{name}.png"},
